@@ -26,7 +26,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/currency-converter-api.git
+    git clone https://github.com/devid-koch/currency-converter-api.git
     cd currency-converter-api
     ```
 
