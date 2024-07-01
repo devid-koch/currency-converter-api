@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-f7gdl7)j30c36e3u*8_7g)(f#b74deilh1l*viv40f+h9e+6u4'
 
  #api key for the exchangeratesapi
-EXCHANGE_RATE_API_KEY = '6c59695a21b880b1562cf4f4cb026ae9'
+EXCHANGE_RATE_API_KEY = 'api-key'
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
